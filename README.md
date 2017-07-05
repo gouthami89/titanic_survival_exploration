@@ -3,4 +3,6 @@ Predicting survival of passengers
 
 Project 1 - machine learning course
 
-Predicting the survival of passengers
+Predicting the survival of passengers based on decision trees.
+
+
